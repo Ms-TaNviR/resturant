@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+
+.Container{
+width: 1200px;
+margin:40px;
+}
+
+
+.Container-fluid{
+width: 100%;
+
+}
+
+.Manu{
+    background-color: darkgreen;
+    text-align: center;
+    padding: 30px;
+ 
+}
+
+.Manu a{
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+}
+.Manu a:hover{
+    background-color: white;
+    color: darkgreen;
+    padding: 0px 10px 0px 10px;
+}
+.block{
+    display: inline-block;
+}
+.card{
+ background-color: darkgreen;
+ color: white;
+ padding: 20px;
+ margin: 20px;
+
+}
